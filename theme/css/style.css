@@ -1172,7 +1172,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 @media (max-width: 575px) {
   .speakers .speaker-item .image img {
-    width: 100% !important;
+    width: 200% !important;
   }
 }
 .speakers .speaker-item .image .primary-overlay {
