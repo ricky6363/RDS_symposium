@@ -55,12 +55,12 @@
     //  Count Down JS
     // -----------------------------
     $('.timer').syotimer({
-      year: 2021,
-      month: 12,
-      day: 9,
-      hour: 20,
-      minute: 30
-    });
+      year: 2023,
+      month: 9,
+      day: 16,
+      hour: 0,     // Assuming you want to start counting from midnight
+      minute: 0
+    });    
 
     // -----------------------------
     // Magnific Popup
